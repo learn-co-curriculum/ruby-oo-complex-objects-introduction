@@ -10,7 +10,7 @@ have.
 In the following lessons we'll explain these concepts:
 
 * What a class is
-* Code design
+* What code design is
 * Basic code design principles that object orientated programmers employ
 * The concept of a domain model
 
