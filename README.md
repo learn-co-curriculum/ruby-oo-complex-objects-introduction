@@ -1,16 +1,20 @@
-# Title
+# Introduction to Building Complex Class Objects in Ruby
 
-## Learning Goals
+As we covered previously, we use classes as blueprints for objects. Objects are
+the basic building-blocks of Ruby code (everything in Ruby is an object). When
+defining a class, we typically focus on two main properties: states and
+behaviors. Ruby classes are the blueprints that establish what attributes (also
+known as states) and behaviors (known in Ruby as methods) that an object should
+have.
 
--SWBAT 1
--SWBAT 2
+In the following lessons we'll explain these concepts:
 
-## Introduction
+* What a class is
+* Code design
+* Basic code design principles that object orientated programmers employ
+* The concept of a domain model
 
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+We'll also be working through a few tasks such as creating a database model for
+a domain model with different types of object associations, Writing instance
+methods that manipulate nested data structures, and building an object oriented
+program.
