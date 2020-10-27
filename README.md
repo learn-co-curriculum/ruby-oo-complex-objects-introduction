@@ -8,7 +8,7 @@ combination to build an object-oriented program.
 In the following lessons we'll explain these concepts:
 
 * What code design is
-* Basic code design principles that object orientated programmers employ
+* Basic code design principles that object oriented programmers employ
 * The concept of a domain model
 
 By combining the different concepts we've learned, we can use classes to model the 
