@@ -1,4 +1,4 @@
-# Introduction to Building Complex Class Objects in Ruby
+# Introduction to Complex Objects
 
 As we covered previously, we use classes as blueprints for objects. These
 objects are the basic building blocks of Ruby code. We have introduced using
